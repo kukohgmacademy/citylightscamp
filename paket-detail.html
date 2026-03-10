@@ -1,0 +1,441 @@
+﻿<!DOCTYPE html>
+<html lang="id-ID">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detail Paket | Camping Batu Malang</title>
+
+    <!-- SEO & Memaksimalkan Judul -->
+    <meta name="description"
+        content="Detail lengkap fasilitas, harga, dan layanan tambahan dari paket camping terbaik kami di kawasan kota wisata Batu Malang.">
+    <meta name="robots" content="index, follow">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <meta name="theme-color" content="#f26422">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@500;700;800&display=swap"
+        rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript>
+        <link rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@500;700;800&display=swap">
+    </noscript>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        media="print" onload="this.media='all'">
+    <noscript>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    </noscript>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/styles.css">
+
+    <style>
+        .detail-container {
+            max-width: 1200px;
+            margin: 60px auto;
+            padding: 0 5%;
+            display: flex;
+            gap: 40px;
+            flex-wrap: wrap;
+        }
+
+        .detail-content {
+            flex: 1;
+            min-width: 300px;
+        }
+
+        .detail-sidebar {
+            width: 350px;
+            flex-shrink: 0;
+        }
+
+        .booking-card {
+            background: var(--surface);
+            padding: 30px;
+            border-radius: 12px;
+            position: sticky;
+            top: 120px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+        }
+
+        .booking-card h3 {
+            margin-bottom: 20px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            padding-bottom: 15px;
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.4rem;
+            color: #fff;
+        }
+
+        .booking-card .price {
+            font-size: 2.2rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 25px;
+            font-family: 'Outfit', sans-serif;
+        }
+
+        .booking-card .price span {
+            font-size: 1rem;
+            color: #aaa;
+            font-weight: 400;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .facilities-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .facilities-list li {
+            margin-bottom: 15px;
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            font-size: 1.05rem;
+            line-height: 1.5;
+            color: #ccc;
+        }
+
+        .facilities-list i {
+            margin-top: 4px;
+            font-size: 1.2rem;
+        }
+
+        .timeline {
+            list-style: none;
+            padding: 0;
+            margin-top: 40px;
+        }
+
+        .timeline li {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .timeline-time {
+            font-weight: 600;
+            color: var(--primary);
+            width: 80px;
+            flex-shrink: 0;
+        }
+
+        .timeline-desc {
+            color: #ccc;
+            flex: 1;
+            padding-bottom: 20px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        @media (max-width: 900px) {
+            .detail-container {
+                flex-direction: column;
+            }
+
+            .detail-sidebar {
+                width: 100%;
+                position: static;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar scrolled">
+        <a href="index.html" class="logo">
+            <img src="img/logo.png" alt="Batu Sunrise Camp Logo" class="brand-logo">
+            <span class="logo-text">Batu <span>Sunrise</span></span>
+        </a>
+        <div class="nav-links">
+            <a href="index.html">Beranda</a>
+            <a href="about.html">Tentang Kami</a>
+            <a href="paket.html" class="active">Paket</a>
+            <a href="fasilitas.html">Fasilitas</a>
+            <a href="blog.html">Blog</a>
+        </div>
+        <div class="nav-actions">
+            <a href="https://wa.me/6281239225692" class="btn">Pesan Sekarang</a>
+            <div class="menu-toggle"><i class="fas fa-bars"></i></div>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="page-header" id="hero-header"
+        style="background-color: var(--background); background-position: center; background-size: cover; padding: 140px 20px 80px 20px; border-bottom: 1px solid rgba(255,255,255,0.05); position: relative;">
+        <!-- Overlay for better text readability -->
+        <div
+            style="position: absolute; top:0; left:0; width:100%; height:100%; background: linear-gradient(to bottom, rgba(10,13,20,0.5), rgba(10,13,20,0.95)); z-index: 1;">
+        </div>
+
+        <div class="page-header-content" style="position: relative; z-index: 2; margin-top: 30px;">
+            <p class="post-meta" id="pkg-meta"
+                style="font-size: 1rem; color: var(--primary); font-weight: 600; margin-bottom: 10px; letter-spacing: 2px; text-transform: uppercase;">
+                MENDOWNLOAD DATA...</p>
+            <h1 id="pkg-name" style="font-size: 3.5rem; margin-bottom: 15px;">Loading Paket...</h1>
+        </div>
+    </header>
+
+    <div class="detail-container">
+        <!-- Left Content -->
+        <div class="detail-content">
+            <h2
+                style="font-size: 1.8rem; margin-bottom: 20px; font-family: 'Outfit'; border-left: 4px solid var(--primary); padding-left: 15px;">
+                Tentang Paket</h2>
+            <p id="pkg-desc"
+                style="line-height: 1.8; color: #ccc; font-size: 1.1rem; margin-bottom: 50px; text-align: justify;"></p>
+
+            <h2
+                style="font-size: 1.8rem; margin-bottom: 25px; font-family: 'Outfit'; border-left: 4px solid var(--primary); padding-left: 15px;">
+                Fasilitas Termasuk</h2>
+            <ul class="facilities-list" id="included-list" style="margin-bottom: 50px;">
+                <!-- Filled via JS -->
+            </ul>
+
+            <h2
+                style="font-size: 1.8rem; margin-bottom: 25px; font-family: 'Outfit'; border-left: 4px solid #666; padding-left: 15px; color: #999;">
+                Tidak Termasuk</h2>
+            <ul class="facilities-list" id="excluded-list" style="margin-bottom: 50px;">
+                <!-- Filled via JS -->
+            </ul>
+
+            <h2
+                style="font-size: 1.8rem; margin-bottom: 25px; font-family: 'Outfit'; border-left: 4px solid var(--primary); padding-left: 15px;">
+                Contoh Jadwal (Itinerary)</h2>
+            <ul class="timeline">
+                <li>
+                    <div class="timeline-time">14:00 - 15:00</div>
+                    <div class="timeline-desc">Cek in di lokasi kawasan Camping Ground Goa Pinus, persiapan naik menuju area kemah.
+                    </div>
+                </li>
+                <li>
+                    <div class="timeline-time">15:30 - 17:30</div>
+                    <div class="timeline-desc">Tiba di spot camping, menikmati sunset dan suasana sore khas pegunungan
+                        Batu.</div>
+                </li>
+                <li>
+                    <div class="timeline-time">19:00 - 22:00</div>
+                    <div class="timeline-desc">Makan malam/BBQ, ngopi bareng, menikmati kerlap-kerlip indahnya <em>city
+                            light</em> Batu.</div>
+                </li>
+                <li>
+                    <div class="timeline-time">05:00 - 07:00</div>
+                    <div class="timeline-desc">Wake up call natural, menikmati view sunrise dari tenda bersama minuman
+                        hangat.</div>
+                </li>
+            </ul>
+        </div>
+
+        <!-- Right Sidebar -->
+        <aside class="detail-sidebar">
+            <div class="booking-card">
+                <h3>Ringkasan Reservasi</h3>
+
+                <ul
+                    style="list-style: none; padding: 0; margin-bottom: 30px; font-size: 1rem; color: #ccc; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 20px;">
+                    <li style="margin-bottom: 12px; display: flex; justify-content: space-between;"><span>Lama
+                            Waktu</span> <span style="font-weight: 500; color: #fff;">2 Hari 1 Malam</span></li>
+                    <li style="margin-bottom: 12px; display: flex; justify-content: space-between;"><span>Jenis</span>
+                        <span id="pkg-cat" style="font-weight: 600; color: var(--primary);">...</span>
+                    </li>
+                    <li style="margin-bottom: 12px; display: flex; justify-content: space-between;"><span>Lokasi
+                            Alam</span> <span style="font-weight: 500; color: #fff;">Camping Ground Goa Pinus</span></li>
+                    <li style="margin-bottom: 12px; display: flex; justify-content: space-between;"><span>Min.
+                            Kuota</span> <span style="font-weight: 500; color: #fff;">2 Orang</span></li>
+                </ul>
+
+                <a href="pembayaran.html" class="btn"
+                    style="width: 100%; text-align: center; margin-bottom: 15px; padding: 15px 0;">Booking & Lanjut
+                    Pembayaran</a>
+                <a href="https://wa.me/6281239225692" class="btn btn-outline"
+                    style="width: 100%; text-align: center; border-color: #25D366; color: #25D366; padding: 15px 0;"><i
+                        class="fab fa-whatsapp" style="margin-right: 8px;"></i> Tanya Ketersediaan WA</a>
+            </div>
+        </aside>
+    </div>
+
+    <!-- Related Packages (CTA) -->
+    <section class="cta-section"
+        style="padding: 60px 20px; text-align: center; background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('img/b3.webp') center/cover; position: relative;">
+        <div style="max-width: 800px; margin: 0 auto; position: relative; z-index: 2;">
+            <h2 style="font-size: 2.2rem; margin-bottom: 20px; color: #fff;">Mencari Pengalaman Yang Lain?</h2>
+            <p style="font-size: 1.1rem; color: #ddd; margin-bottom: 30px;">Setiap grup memiliki kebutuhan yang
+                berbeda-beda. Pilih fasilitas kemah sesuai kapasitas dan budget rombongan Anda.</p>
+            <a href="paket.html" class="btn btn-outline"
+                style="background: rgba(255,255,255,0.05); color: #fff; border-color: rgba(255,255,255,0.3);"><i
+                    class="fas fa-list" style="margin-right: 8px;"></i> Lihat Seluruh Paket</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-grid">
+            <div class="footer-col">
+                <a href="index.html" class="logo"
+                    style="display:flex; align-items:center; gap:10px; margin-bottom: 20px;">
+                    <img src="img/logo.png" alt="Batu Sunrise Camp Logo" class="brand-logo footer-logo">
+                    <span class="logo-text"
+                        style="font-size: 1.5rem; font-weight: 800; color: #fff; font-family: 'Outfit', sans-serif;">Batu
+                        <span style="color: var(--primary);">Sunrise</span></span>
+                </a>
+                <p>Menyajikan pengalaman camping paling menenangkan dan estetik di jantung keindahan Batu, Malang.
+                </p>
+                <div class="social-links">
+                    <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" aria-label="TikTok"><i class="fab fa-tiktok"></i></a>
+                    <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+            <div class="footer-col">
+                <h3>Links Cepat</h3>
+                <ul>
+                    <li><a href="index.html">Beranda</a></li>
+                    <li><a href="about.html">Tentang Kami</a></li>
+                    <li><a href="paket.html">Daftar Paket</a></li>
+                    <li><a href="blog.html">Blog Terbaru</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h3>Network</h3>
+                <ul>
+                    <li><a href="#">Network 1</a></li>
+                    <li><a href="#">Network 2</a></li>
+                    <li><a href="#">Network 3</a></li>
+                    <li><a href="#">Network 4</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h3>Hubungi Kami</h3>
+                <p><i class="fas fa-map-marker-alt" style="color: var(--primary); margin-right: 10px;"></i> Camping Ground Goa Pinus, Jl. Gn. Banyak, Jurangrejo, Pandesari, Kec. Bumiaji, Kota Batu, Jawa Timur 65391</p>
+                <p><i class="fas fa-phone-alt" style="color: var(--primary); margin-right: 10px;"></i> +62 812-3456-7890
+                </p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 Review Jujur Paket Camping Batu Malang dengan Keindahan City Light. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Back to top button -->
+    <button id="backToTop" aria-label="Scroll to top"><i class="fas fa-chevron-up"></i></button>
+
+    <!-- Floating WA Button -->
+    <a href="https://wa.me/6281239225692?text=Halo%20Admin%20Camping%20Batu,%20saya%20ingin%20tanya%20tentang%20daftar%20paket."
+        class="floating-wa" target="_blank" rel="noopener noreferrer" aria-label="Hubungi kami di WhatsApp">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+    <!-- Scripts (Pagespeed optimasi menggunakan defer) -->
+    <script src="assets/js/scripts.js" defer></script>
+
+    <!-- Script to Handle Dynamic Data from params -->
+    <script>
+        const packageData = {
+            1: {
+                name: "Basic Camp", category: "Kategori Basic", price: "350.000", image: "img/p1 (1).webp",
+                desc: "Paket Sunrise 1 adalah pilihan hemat yang pas untuk Anda yang ingin menikmati sensasi city light Batu Malang secara langsung dari area camping. Paket ini ditujukan untuk tamu pencinta alam murni yang sekadar menyewa area kemah khusus yang sudah terjamin keamanan serta memiliki view tanpa batas.",
+                included: ["Kawasan Eksklusif Camp Ground Area", "Ticket Masuk Area Perhutani Resmi", "Akses Jaringan Listrik Umum untuk Charge HP"],
+                excluded: ["Unit Tenda, Matras Ekstra", "Sleeping Bag / Kantung Tidur Penghangat", "Kebutuhan Makan & Minum Ekstra Selama di Atas"]
+            },
+            2: {
+                name: "Standard Camp", category: "Kategori Basic", price: "550.000", image: "img/p2 (1).webp",
+                desc: "Tingkatkan kenyamanan istirahat Anda dengan paket Sunrise 2! Kami sediakan perlengkapan tidur praktis siap pakai agar malam Anda tetap hangat untuk menemani indahnya kilauan bintang di atas langit lereng pegunungan.",
+                included: ["Lampu Penerangan Ekstra Di Luar Tenda", "Sewa Tenda Standar Angin Gunung", "Matras Berbahan Spon Menahan Dingin Tanah", "Sleeping Bag Hangat Spesifikasi Polar"],
+                excluded: ["Jasa Pemasangan & Bongkar (Tamu Mandiri)", "Alat & Kompor Masak Dapur", "Logistik Merek/Cemilan"]
+            },
+            3: {
+                name: "Standard Plus", category: "Kategori Basic", price: "850.000", image: "img/p3 (1).webp",
+                desc: "Hadirkan momen kebersamaan membuat kopi/teh di pagi buta ala semi-glamping! Paket ini membekali Anda sepenuhnya dengan peralatan tenda komplet plus bantuan kompor gas portabel yang praktis dan tak mengotori area.",
+                included: ["Tenda Set & Matras Pelindung Kualitas 1", "Sleeping Bag Berkualitas Anti-Dingin Ekstrem", "Kompor Gas Portabel Kecil & Meja Bersama", "Set Penerangan Mandiri Area Santai"],
+                excluded: ["Mentahan Bahan Makan & Minum", "Layanan Pemandu / Fotografer Eksternal"]
+            },
+            4: {
+                name: "Medium VIP", category: "Kategori Medium", price: "1.050.000", image: "img/p4 (1).webp",
+                desc: "Inilah level Premium dari seri Medium! Menyediakan dimensi tenda (Dome VIP) yang lebih lega serta Sleeping Bag Bulu berkualitas unggul. Sangat direkomendasikan bagi kelompok sahabat santai yang menyukai obrolan malam lengkap ditemani alat serbaada.",
+                included: ["Tenda VIP Kelas Medium & Matras Lebar Nyaman", "Sleeping Bag Premium Bahan Bulu Hangat", "Meja, Kursi Portable Lipat & Alat Masak Set Tersedia"],
+                excluded: ["Penyajian Chef Cepat Saji", "Armada Transportasi/Shuttle Penjemputan Internal"]
+            },
+            5: {
+                name: "Family VIP", category: "Kategori Medium", price: "1.250.000", image: "img/p5 (1).webp",
+                desc: "Solusi super luas guna menampung rombongan grup! Menghadirkan fasilitas kemah berkeistimewaan matras tidur busa plus tambahan bantal udara. Area api unggun pun telah dikurasi supaya panas terjaga stabil.",
+                included: ["Tenda VIP Ekstra Jumbo (Ruang Memanjang)", "Matras Lantai Kapasitas Tinggi & Bantal Udara Ekstra", "Spot Tungku Api Unggun Terpadu & Kayu Bakar Malam", "Lampu Hias Tenda Berbalut Warm White Aesthetic"],
+                excluded: ["Penyajian Langsung Hidangan Menu Utama", "Layanan Personil Spesial (Guide Penjaga)"]
+            },
+            6: {
+                name: "Medium Glamping", category: "Kategori Medium", price: "1.550.000", image: "img/p6 (1).webp",
+                desc: "Lupakan penat mendirikan tenda, dan manjakan badan! Tim ahli kami akan menyetel penuh tenda siap huni. Datanglah berlibur secara elegan: cukup bersantai ria di bangku kemah dan fokus ke kilauan lampu wisata Batu.",
+                included: ["Pelayanan Reguler Penuh (Terima Beres Tenda Terpasang)", "Sleeping Bag Premium & Matras Ekstra Ketebalan", "Pinjaman Kursi Lipat Mewah & Dekor Lampu Nuansa Romantis"],
+                excluded: ["Jasa Dapur Makanan Jadi Eksternal", "Mobil Kendaraan Ojek/Penjemput Khusus"]
+            },
+            7: {
+                name: "Premium Plus", category: "Kategori Premium", price: "1.850.000", image: "img/b4.webp",
+                desc: "Keserasian layanan kemah elegan dikombinasikan kepuasan hidangan perbukitan! Makan dan ngopi cantik sembari ditemani atraksi kota Batu yang gemerlap tanpa perlu ribet mengurus keperluan jemputan.",
+                included: ["Fasilitas Lengkap Sunrise 6 + Jemput Spot Shuttle Internal / Bawah", "Servis Menu Makanan & Minuman Berat x2 Siklus Jadwal Bebas Pilihan", "Set Sajian Teh Atau Kopi Khusus Pegunungan Menjelang Malam"],
+                excluded: ["Paket Visual Drone Tenaga Fotografer Profesional Tambahan"]
+            },
+            8: {
+                name: "Exclusive VIP", category: "Kategori Premium", price: "2.150.000", image: "img/b5.webp",
+                desc: "Level liburan tiada tanding! Menikmati hidangan panggangan BBQ segar tengah malam kini jauh menenangkan berkat pemantauan Pemandu 24 jam nonstop. Bahkan, penerbangan Drone ikut mendokumentasi tawa riang rombongan.",
+                included: ["Tim Penjemputan Resmi Pusat & Guide Standby 24 Jam Sigap Di Lahan", "Dokumentasi Lengkap Profesional Secara Lensa Kamera Fix & Drone Udara", "Variasi Menu Makanan Bebas Pesan & Pesta BBQ Ekstra Alat Beramai di Malam Terakhir"],
+                excluded: ["Batas Kekuasaan Lahan (Lahan eksklusif tapi masih terlihat oleh grup terbatas lain)"]
+            },
+            9: {
+                name: "Luxury Private", category: "Kategori Premium", price: "2.550.000", image: "img/b6.webp",
+                desc: "Ini adalah jawaban total dari kulminasi layanan wisata camping termutakhir. Rasakan privasi yang sesungguhnya tak bersentuhan dengan khalayak umum di Tenda Glamping Elite bak Presidential Suite. Makanan akan dikurasi di tempat bersama Chef personal.",
+                included: ["Prioritas Spot Area Mutlak (Tidak Memungkinkan Digabung Tamu Lain Sisi Manapun)", "Tenda Glamping Spesifikasi Elite, Perabotan Elegan Nyata (Small Bed Hotel, Karpet Turki)", "Layanan Personal Chef Koki 24 Jam Penuh & Kameramen Pribadi Mengekor Bebas Arahan Tamu"],
+                excluded: ["Tambahan Biaya Logistik Obat Berat Ekstra Diluar Kontrak Pra-Pemesanan"]
+            }
+        };
+
+        document.addEventListener("DOMContentLoaded", () => {
+            const params = new URLSearchParams(window.location.search);
+            let id = params.get('id');
+
+            // Safe fallback value
+            if (!id || !packageData[id]) {
+                id = 1;
+            }
+
+            const data = packageData[id];
+
+            // Render Info DOM
+            document.title = `Paket ${data.name} | Camping Batu Malang`;
+            document.getElementById('pkg-name').textContent = `Paket ${data.name}`;
+            document.getElementById('pkg-cat').textContent = data.category;
+
+            // Header Image Update dynamically
+            document.getElementById('hero-header').style.backgroundImage = `url('${data.image}')`;
+
+            // Set Body details text
+            document.getElementById('pkg-desc').textContent = data.desc;
+
+            // Generate Inclusions Items Lists
+            const incList = document.getElementById('included-list');
+            data.included.forEach(item => {
+                const li = document.createElement('li');
+                li.innerHTML = `<i class="fas fa-check-circle" style="color: var(--primary);"></i> <span style="color: #fff;">${item}</span>`;
+                incList.appendChild(li);
+            });
+
+            // Generate Exclusions Items Lists
+            const excList = document.getElementById('excluded-list');
+            data.excluded.forEach(item => {
+                const li = document.createElement('li');
+                li.innerHTML = `<i class="fas fa-times-circle" style="color: #666;"></i> <span>${item}</span>`;
+                excList.appendChild(li);
+            });
+        });
+    </script>
+</body>
+
+</html>
+

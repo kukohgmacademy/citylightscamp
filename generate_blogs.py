@@ -1,9 +1,9 @@
-import os
+﻿import os
 import re
 
 base_dir = r"g:\bjir\tugas peting\fun offroad batu malang coban talun"
 
-with open(os.path.join(base_dir, "blog-6.html"), "r", encoding="utf-8") as f:
+with open(os.path.join(base_dir, "Mengenal Keunggulan Sewa Tenda Premium Batu Malang.html"), "r", encoding="utf-8") as f:
     template = f.read()
 
 blogs_data = [
@@ -109,3 +109,4 @@ for data in blogs_data:
         f.write(content)
         
 print("New blogs generated.")
+

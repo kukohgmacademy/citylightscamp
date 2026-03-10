@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://campingbatu.com/sitemap.xml
+Sitemap: https://citylightscamp.web.id/sitemap.xml

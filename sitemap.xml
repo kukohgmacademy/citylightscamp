@@ -1,83 +1,126 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core Pages -->
   <url>
     <loc>https://citylightscamp.web.id/</loc>
-    <lastmod>2026-03-05</lastmod>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/index.html</loc>
-    <lastmod>2026-03-05</lastmod>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/about.html</loc>
-    <lastmod>2026-03-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/blog.html</loc>
-    <lastmod>2026-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/5-Barang-Wajib-Bawa-Saat-Paket-Camping-di-Coban-Talun.html</loc>
-    <lastmod>2026-03-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/3-Spot-Foto-Paling-Instagramable-di-Area-Camping.html</loc>
-    <lastmod>2026-03-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/Amankah-Paket-Camping-Untuk-Anak-anak-dan-Keluarga.html</loc>
-    <lastmod>2026-03-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/Keseruan-BBQ-dan-Api-Unggun-di-Camping-Batu-Malang.html</loc>
-    <lastmod>2026-03-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/Waktu-Terbaik-untuk-Camping-Menikmati-City-Light-Batu-Malang.html</loc>
-    <lastmod>2026-03-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/Mengenal-Keunggulan-Sewa-Tenda-Premium-Batu-Malang.html</loc>
-    <lastmod>2026-03-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/pembayaran.html</loc>
-    <lastmod>2026-03-05</lastmod>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/paket.html</loc>
-    <lastmod>2026-03-05</lastmod>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://citylightscamp.web.id/panduan-booking.html</loc>
-    <lastmod>2026-03-06</lastmod>
+    <loc>https://citylightscamp.web.id/paket-detail.html</loc>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://citylightscamp.web.id/fasilitas.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/blog.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/panduan-booking.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/pembayaran.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog Articles -->
+  <url>
+    <loc>https://citylightscamp.web.id/3-Spot-Foto-Paling-Instagramable-di-Area-Camping.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/5-Barang-Wajib-Bawa-Saat-Paket-Camping-di-Coban-Talun.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/7-Keuntungan-Memilih-Paket-Camping-VIP.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Amankah-Paket-Camping-Untuk-Anak-anak-dan-Keluarga.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Cara-Booking-Paket-Camping-Batu-Malang-Paling-Mudah.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Kenapa-Citylightscamp-Adalah-Terapi-Visual-Terbaik.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Keseruan-BBQ-dan-Api-Unggun-di-Camping-Batu-Malang.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Mengenal-Keunggulan-Sewa-Tenda-Premium-Batu-Malang.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Review-Jujur-Jeep-Offroad-Coban-Talun-Batu.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Tidur-di-Bawah-Ribuan-Lampu-Intip-Serunya-Pengalaman.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Waktu-Terbaik-untuk-Camping-Menikmati-City-Light-Batu-Malang.html</loc>
+    <lastmod>2026-03-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
-
-

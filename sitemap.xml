@@ -3,13 +3,13 @@
   <!-- Core Pages -->
   <url>
     <loc>https://citylightscamp.web.id/</loc>
-    <lastmod>2026-03-13</lastmod>
+    <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/index.html</loc>
-    <lastmod>2026-03-13</lastmod>
+    <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,7 +39,7 @@
   </url>
   <url>
     <loc>https://citylightscamp.web.id/blog.html</loc>
-    <lastmod>2026-03-13</lastmod>
+    <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -156,6 +156,18 @@
   <url>
     <loc>https://citylightscamp.web.id/Cara-Terbaik-Menikmati-Udara-Batu-Tanpa-Harus-Menginap.html</loc>
     <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Satu-Malam-Penuh-Keseruan-Merasakan-Camping.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Sebuah-Perjalanan-Rasa-dalam-Malam-Kebersamaan.html</loc>
+    <lastmod>2026-03-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

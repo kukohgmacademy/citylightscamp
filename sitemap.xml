@@ -1,137 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Core Pages -->
   <url>
     <loc>https://citylightscamp.web.id/</loc>
-    <lastmod>2026-03-16</lastmod>
+    <lastmod>2026-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/index.html</loc>
-    <lastmod>2026-03-16</lastmod>
+    <lastmod>2026-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/about.html</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/paket.html</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/paket-detail.html</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/fasilitas.html</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/blog.html</loc>
-    <lastmod>2026-03-16</lastmod>
+    <lastmod>2026-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/panduan-booking.html</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/pembayaran.html</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Blog Articles -->
   <url>
+    <loc>https://citylightscamp.web.id/3-Alasan-Mengapa-City-Lights-Camp.html</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://citylightscamp.web.id/3-Spot-Foto-Paling-Instagramable-di-Area-Camping.html</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/5-Barang-Wajib-Bawa-Saat-Paket-Camping-di-Coban-Talun.html</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/7-Keuntungan-Memilih-Paket-Camping-VIP.html</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/Amankah-Paket-Camping-Untuk-Anak-anak-dan-Keluarga.html</loc>
-    <lastmod>2026-03-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/Cara-Booking-Paket-Camping-Batu-Malang-Paling-Mudah.html</loc>
-    <lastmod>2026-03-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/Kenapa-Citylightscamp-Adalah-Terapi-Visual-Terbaik.html</loc>
-    <lastmod>2026-03-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/Keseruan-BBQ-dan-Api-Unggun-di-Camping-Batu-Malang.html</loc>
-    <lastmod>2026-03-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/Mengenal-Keunggulan-Sewa-Tenda-Premium-Batu-Malang.html</loc>
-    <lastmod>2026-03-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/Review-Jujur-Jeep-Offroad-Coban-Talun-Batu.html</loc>
-    <lastmod>2026-03-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/Tidur-di-Bawah-Ribuan-Lampu-Intip-Serunya-Pengalaman.html</loc>
-    <lastmod>2026-03-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/Waktu-Terbaik-untuk-Camping-Menikmati-City-Light-Batu-Malang.html</loc>
-    <lastmod>2026-03-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://citylightscamp.web.id/Sesal-Lewati-Hidden-Gem.html</loc>
     <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://citylightscamp.web.id/Jangan-Nyesel-Skip-Spot-Camping.html</loc>
-    <lastmod>2026-03-12</lastmod>
+    <loc>https://citylightscamp.web.id/Area-perkemahan-sangat-luas.html</loc>
+    <lastmod>2026-04-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -142,14 +100,26 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://citylightscamp.web.id/3-Alasan-Mengapa-City-Lights-Camp.html</loc>
-    <lastmod>2026-03-13</lastmod>
+    <loc>https://citylightscamp.web.id/Berlindung-Di-Balik-Kain-Camping.html</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://citylightscamp.web.id/Menemukan-Kedamaian-di-Antara-Dinginnya-Batu-dan-Hangat.html</loc>
-    <lastmod>2026-03-14</lastmod>
+    <loc>https://citylightscamp.web.id/Bersihkan-Kerikil-Tajam.html</loc>
+    <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Bumi-Perkemahan-Coban-Talun.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Cara-Booking-Paket-Camping-Batu-Malang-Paling-Mudah.html</loc>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -160,38 +130,176 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://citylightscamp.web.id/Satu-Malam-Penuh-Keseruan-Merasakan-Camping.html</loc>
-    <lastmod>2026-03-16</lastmod>
+    <loc>https://citylightscamp.web.id/Dingin-Menusuk-Tulang.html</loc>
+    <lastmod>2026-04-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://citylightscamp.web.id/Sebuah-Perjalanan-Rasa-dalam-Malam-Kebersamaan.html</loc>
-    <lastmod>2026-03-16</lastmod>
+    <loc>https://citylightscamp.web.id/Jangan-Nyesel-Skip-Spot-Camping.html</loc>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://citylightscamp.web.id/Simfoni-Alam-Batu-yang-Memukau-Sebuah-Perjalanan.html</loc>
-    <lastmod>2026-03-17</lastmod>
+    <loc>https://citylightscamp.web.id/Jauhkan-Barang-Dari-Dinding.html</loc>
+    <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Kenapa-Citylightscamp-Adalah-Terapi-Visual-Terbaik.html</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Keseruan-BBQ-dan-Api-Unggun-di-Camping-Batu-Malang.html</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Lampu-Tenda-dan-Senter.html</loc>
+    <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/Langit-Bintang-di-Batu-camping-asyikan-pegunungan.html</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://citylightscamp.web.id/Tahta-Bintang-di-Tanah-Batu-Menikmati-Sisi-Lain.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <loc>https://citylightscamp.web.id/Langkah-Nyata-Hari-Ini-adalah-Harapan-Besar-untuk-Masa-Depan.html</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Membangun-Masa-Depan-yang-Lebih-Baik-Melalui.html</loc>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Memiliki-Paket-Paket-Sewa-Ekonomis.html</loc>
+    <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Menemukan-Kedamaian-di-Antara-Dinginnya-Batu-dan-Hangat.html</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Mengenal-Keunggulan-Sewa-Tenda-Premium-Batu-Malang.html</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Pendar-Lampu-Kota.html</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Pesona-Sunrise-di-Spot-Paket-Camping.html</loc>
+    <lastmod>2026-03-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Rahasia-Spot-Sunrise-Terbaik-di-Ground.html</loc>
+    <lastmod>2026-03-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://citylightscamp.web.id/Rekomendasi-Camping-Asyik-di-Batu-Menikmati-Indahnya.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Review-Camping-Ground-Batu-Terbaru.html</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Review-Jujur-Jeep-Offroad-Coban-Talun-Batu.html</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Review-Jujur-Paket-Camping-Batu-Malang.html</loc>
+    <lastmod>2026-03-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Satu-Malam-Penuh-Keseruan-Merasakan-Camping.html</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Sebuah-Perjalanan-Rasa-dalam-Malam-Kebersamaan.html</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Sesal-Lewati-Hidden-Gem.html</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Simfoni-Alam-Batu-yang-Memukau-Sebuah-Perjalanan.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Tahta-Bintang-di-Tanah-Batu-Menikmati-Sisi-Lain.html</loc>
+    <lastmod>2026-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Tenda-Camping-Malam-Batu.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Terdapat-fasilitas-area-api-unggun-yang-bisa-digunakan.html</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Tidur-di-Bawah-Ribuan-Lampu-Intip-Serunya-Pengalaman.html</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Udara-di-sini-sangat-bersih-dan-segar.html</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://citylightscamp.web.id/Waktu-Terbaik-untuk-Camping-Menikmati-City-Light-Batu-Malang.html</loc>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
